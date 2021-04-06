@@ -4,3 +4,6 @@
 [submodule "DistanceLight2"]
 	path = DistanceLight2
 	url = https://github.com/Destro1914/Distance-Light.git
+[submodule "DistanceLight"]
+	path = DistanceLight
+	url = https://github.com/Destro1914/Distance-Light.git
