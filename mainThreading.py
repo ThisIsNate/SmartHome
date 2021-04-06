@@ -4,7 +4,7 @@ import threading
 import RPi.GPIO as GPIO
 GPIO.setwarnings(False)
 
-from DoorOpener.KeypadPasswordCode import accept_code
+# from .DoorOpener.KeypadPasswordCode import accept_code
 from .otherstudentThreading import check_temp
 from .DistanceLight.UltrasonicRanging import distance_light
 from .austin.SenseLED import loop
