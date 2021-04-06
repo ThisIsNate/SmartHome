@@ -6,7 +6,7 @@ GPIO.setwarnings(False)
 
 # from .DoorOpener.KeypadPasswordCode import accept_code
 from otherstudentThreading import check_temp
-from DistanceLight2.UltrasonicRanging import distance_light
+from DistanceLight.UltrasonicRanging import distance_light
 from austin.SenseLED import loop
 
 print('Starting...')
