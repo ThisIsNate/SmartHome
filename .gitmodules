@@ -5,16 +5,16 @@
 [submodule "DistanceLight2"]
 	path = DistanceLight2
 	url = https://github.com/Destro1914/Distance-Light.git
-    branch = main
+    	branch = main
 [submodule "DistanceLight"]
 	path = DistanceLight
 	url = https://github.com/Destro1914/Distance-Light.git
-    branch = main
+    	branch = main
 [submodule "austin"]
 	path = austin
 	url = https://github.com/ricardo-austin/austin.git
-    branch = main
+    	branch = main
 [submodule "DoorOpener"]
 	path = DoorOpener
 	url = https://github.com/graafwilliam/DoorOpener.git
-    branch = main
+    	branch = main
