@@ -1,3 +1,8 @@
 git add .
 git commit -m "first commit"
 git push
+
+
+git clone --recurse-submodules https://github.com/ThisIsNate/SmartHome.git
+
+git submodule update
