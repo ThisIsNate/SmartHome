@@ -10,3 +10,6 @@
 [submodule "austin"]
 	path = austin
 	url = https://github.com/ricardo-austin/austin.git
+[submodule "DoorOpener"]
+	path = DoorOpener
+	url = https://github.com/graafwilliam/DoorOpener.git
